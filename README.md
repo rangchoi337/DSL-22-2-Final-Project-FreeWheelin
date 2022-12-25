@@ -19,8 +19,8 @@ team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈
   - `embedding_model.ipynb` : 
 - Time_Series_Clustering
   - `merge_data.ipynb` : 프리윌린이 제공한 데이터 중 필요한 table만 선택적으로 병합한 data frame을 csv파일로 저장
-  - `데이터_만들기_최종_정리.ipynb` : 병합한 데이터셋을 단원별, 학생별, 문제 난이도별로 구분하여 총 6개의 csv 파일로 저장
-  - `시계열 클러스터링 모델_최종정리.ipynb` : TimeSeriesScalerMeanVariance를 통한 전처리, 전처리한 데이터에 TimeSeriesKMeans를 수행하고 결과 분석 및 결과 저장
+  - `data_preprocess_final.ipynb` : 병합한 데이터셋을 단원별, 학생별, 문제 난이도별로 구분하여 총 6개의 csv 파일로 저장
+  - `time_series_clustering_model_final.ipynb` : TimeSeriesScalerMeanVariance를 통한 전처리, 전처리한 데이터에 TimeSeriesKMeans를 수행하고 결과 분석 및 결과 저장
 ### teamB
 - 
 ### teamC
