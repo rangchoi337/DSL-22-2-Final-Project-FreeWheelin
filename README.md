@@ -15,7 +15,12 @@ team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈
 
 ## File Description
 ### teamA
--
+- Embedding_NN
+  - `embedding_model.ipynb` : 
+- Time_Series_Clustering
+  - `merge_data.ipynb` :
+  - `데이터_만들기_최종_정리.ipynb` :
+  - `시계열 클러스터링 모델_최종정리.ipynb` : (파일 이름 영어로 바꿀 예정)
 ### teamB
 - 
 ### teamC
