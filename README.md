@@ -17,6 +17,7 @@ team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈
 ### teamA
 - Embedding_NN
   - `embedding_model.ipynb` : 
+  - `embedding_dataset.sql` : Database에서 Worksheet problem 기준으로 고3 학생 데이터만 추린 테이블 생성. 자세한 column은 발표 pdf 참고
 - Time_Series_Clustering
   - `merge_data.ipynb` : 프리윌린이 제공한 데이터 중 필요한 table만 선택적으로 병합한 data frame을 csv파일로 저장
   - `data_preprocess_final.ipynb` : 병합한 데이터셋을 단원별, 학생별, 문제 난이도별로 구분하여 총 6개의 csv 파일로 저장
