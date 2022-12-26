@@ -2,9 +2,9 @@
 
 학생 실력 향상 지표 수립 및 학생 유형 클러스터링
 
-team A : 전재현 김채은 이재우 장준혁 조수연 한예림<br>
+team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈<br>
 team B : 김종민 김형민 엄소은 이승연 조찬형 최윤서<br>
-team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈
+team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 
 ## Overview & Result
 
@@ -14,14 +14,7 @@ team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈
 
 
 ## File Description
-### teamA
-- Embedding_NN
-  - `embedding_model.ipynb` : 
-  - `embedding_dataset.sql` : Database에서 Worksheet problem 기준으로 고3 학생 데이터만 추린 테이블 생성. 자세한 column은 발표 pdf 참고
-- Time_Series_Clustering
-  - `merge_data.ipynb` : 프리윌린이 제공한 데이터 중 필요한 table만 선택적으로 병합한 data frame을 csv파일로 저장
-  - `data_preprocess_final.ipynb` : 병합한 데이터셋을 단원별, 학생별, 문제 난이도별로 구분하여 총 6개의 csv 파일로 저장
-  - `time_series_clustering_model_final.ipynb` : TimeSeriesScalerMeanVariance를 통한 전처리, 전처리한 데이터에 TimeSeriesKMeans를 수행하고 결과 분석 및 결과 저장
+### teamC
 ### teamB
 - Clustering
   - `deriv_clustering_pca.ipynb` : 미적분 과목 Clustering을 통해 학생 분석
@@ -38,4 +31,11 @@ team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈
   - `mijeok_nn2.csv` : 미적분 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
   - `su1_nn.csv` : 수학I 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
   - `su2_nn.csv` : 수학II 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
-### teamC
+### teamA
+- Embedding_NN
+  - `embedding_model.ipynb` : 학생, 문제 feature를 바탕으로 문제를 해당 학생이 맞출 확률값을 도출하는 embedding 모델 구현
+  - `embedding_dataset.sql` : Database에서 Worksheet problem 기준으로 고3 학생 데이터만 추린 테이블 생성하는 sql. 자세한 column은 발표 pdf p.134 참고
+- Time_Series_Clustering
+  - `merge_data.ipynb` : 프리윌린이 제공한 데이터 중 필요한 table만 선택적으로 병합한 data frame을 csv파일로 저장
+  - `data_preprocess_final.ipynb` : 병합한 데이터셋을 단원별, 학생별, 문제 난이도별로 구분하여 총 6개의 csv 파일로 저장
+  - `time_series_clustering_model_final.ipynb` : TimeSeriesScalerMeanVariance를 통한 전처리, 전처리한 데이터에 TimeSeriesKMeans를 수행하고 결과 분석 및 결과 저장
