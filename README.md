@@ -15,6 +15,7 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 
 ## File Description
 ### teamC
+- 
 ### teamB
 - Clustering
   - `deriv_clustering_pca.ipynb` : 미적분 과목 Clustering을 통해 학생 분석
@@ -23,7 +24,7 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 - NN model
   - `embedding vector extract using CNN model.ipynb`: CNN model을 사용한 과목별 embedding vector 추출
 - Data 
-
+  - 회사 정책 상 공개 불가능
 - preprocessing
   - `Refining.ipynb` : 데이터 가공 (학생별/문제유형+난이도 별 정답률 추출 및 과목별 )
 
