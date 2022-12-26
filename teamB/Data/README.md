@@ -1,4 +1,4 @@
-# Data 설명
+# Data 설명 (첨부 가능 여부 확인 중)
 ## 수학 과목(확률과통계, 미적분, 수학II, 수학I, 기하)별 학생 Clustering
 ### K-means clustering 사용
 - mijeok_column_110.csv
