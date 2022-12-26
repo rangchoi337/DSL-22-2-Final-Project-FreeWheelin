@@ -8,4 +8,4 @@
 - `deriv_clustering_pca.ipynb`: 미적분과목 클러스터링 및 분석
 - `su1_clustering_pca.ipynb`: 수학I과목 클러스터링 및 분석
 - `su2_clustering_pca.ipynb`: 수학II과목 클러스터링 및 분석
-- `Refining.ipynb` : 진행 취지에 맞게 데이터 가공
+
