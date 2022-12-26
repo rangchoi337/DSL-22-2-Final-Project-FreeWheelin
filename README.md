@@ -22,15 +22,11 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
   - `su2_clustering_pca.ipynb` : 수학II 과목 Clustering을 통해 학생 분석
 - NN model
   - `embedding vector extract using CNN model.ipynb`: CNN model을 사용한 과목별 embedding vector 추출
-- Data
-  - `mijeok_column_110.csv` : 미적분 과목 Clustering 사용해 분석 위한 학생별/문제+난이도별 정답률 데이터
-  - `su1_column_115.csv` : 수학I 과목 Clustering 사용해 분석 위한 학생별/문제+난이도별 정답률 데이터
-  - `su2_column_80.csv` : 수학II 과목 Clustering 사용해 분석 위한 학생별/문제+난이도별 정답률 데이터
-  - `giha_nn2.csv` : 기하 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
-  - `hwak_nn2.csv` : 확률과통계 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
-  - `mijeok_nn2.csv` : 미적분 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
-  - `su1_nn.csv` : 수학I 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
-  - `su2_nn.csv` : 수학II 과목 embedding vector 생성을 위한 학생별/문제+난이도별 정답률 데이터
+- Data 
+
+- preprocessing
+  - `Refining.ipynb` : 데이터 가공 (학생별/문제유형+난이도 별 정답률 추출 및 과목별 )
+
 ### teamA
 - Embedding_NN
   - `embedding_model.ipynb` : 학생, 문제 feature를 바탕으로 문제를 해당 학생이 맞출 확률값을 도출하는 embedding 모델 구현
