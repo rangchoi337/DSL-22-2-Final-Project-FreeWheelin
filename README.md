@@ -15,7 +15,7 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 
 ## File Description
 ### teamC
-- 
+- `Is_worksheet_better_than_workbook_.ipynb` : Worksheet을 위주로 공부한 그룹과 Workbook을 위주로 공부한 그룹의 Score 비교
 ### teamB
 - Clustering
   - `deriv_clustering_pca.ipynb` : 미적분 과목 Clustering을 통해 학생 분석
