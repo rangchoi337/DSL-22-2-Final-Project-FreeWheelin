@@ -15,7 +15,14 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 
 ## File Description
 ### teamC
-- 
+- Analysis
+  - `Is_worksheet_better_than_workbook_.ipynb` : Worksheet을 위주로 공부한 그룹과 Workbook을 위주로 공부한 그룹의 Score 비교
+  - `Rate_of_improvement_by_student.ipynb` : 학생별 실력 향상 정도 분석
+- Dashboard
+  - `student_academy_score_analysis.twb` : 전처리한 pivot table로 기간별, 학원별 분석
+- Preprocess
+  - `Preprocess_FinalPivotTable.ipynb` : 연도별, 분기별, 과목별 누적 score와 학원 등급에 대한 pivot table 생성
+  - `Preprocess_MergeSQLData.ipynb` : Database에서 현재 운영중인 학원을 대상으로 고3 학생과 관련된 모든 테이블 병합후 scoring 진행
 ### teamB
 - Clustering
   - `deriv_clustering_pca.ipynb` : 미적분 과목 Clustering을 통해 학생 분석
