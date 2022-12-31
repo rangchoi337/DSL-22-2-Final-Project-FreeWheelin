@@ -6,10 +6,18 @@ team C : 김지희 김남훈 박지호 손승진 정건우 안민용 김한빈<b
 team B : 김종민 김형민 엄소은 이승연 조찬형 최윤서<br>
 team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 
-## Overview & Result
+## Overview
 
 [Presentation PDF](https://github.com/DataScience-Lab-Yonsei/DSL-22-2-Final-Project-FreeWheelin/blob/main/final_pdf/22-2_DSL_FREEWHEELIN_.pdf)<br>
 [Presentation Youtube](https://www.youtube.com/watch?v=FQhV5c-cpL8&t=2127s)
+
+### teamC
+![C결론](https://user-images.githubusercontent.com/107980286/210123462-17ee6d2e-bf0b-402c-96be-34566b8d7bc5.JPG)
+### teamB
+![B결론](https://user-images.githubusercontent.com/107980286/210123465-64996c0f-7887-49a3-a381-213b11721715.JPG)
+### teamA
+![A결론](https://user-images.githubusercontent.com/107980286/210123466-103ff60e-c1bd-4ae0-9762-586f4cf21228.JPG)
+![A결론2](https://user-images.githubusercontent.com/72757567/210123670-08b9ea40-d1de-4743-bbeb-530981c54181.png)
 
 
 
