@@ -12,11 +12,12 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 [Presentation Youtube](https://www.youtube.com/watch?v=FQhV5c-cpL8&t=2127s)
 
 ### teamC
-(캡쳐)
+![C결론](https://user-images.githubusercontent.com/107980286/210123462-17ee6d2e-bf0b-402c-96be-34566b8d7bc5.JPG)
 ### teamB
-(캡쳐)
+![B결론](https://user-images.githubusercontent.com/107980286/210123465-64996c0f-7887-49a3-a381-213b11721715.JPG)
 ### teamA
-(캡쳐)
+![A결론](https://user-images.githubusercontent.com/107980286/210123466-103ff60e-c1bd-4ae0-9762-586f4cf21228.JPG)
+
 
 ## File Description
 ### teamC
