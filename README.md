@@ -11,6 +11,11 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 [Presentation PDF](https://github.com/DataScience-Lab-Yonsei/DSL-22-2-Final-Project-FreeWheelin/blob/main/final_pdf/22-2_DSL_FREEWHEELIN_.pdf)<br>
 [Presentation Youtube](https://www.youtube.com/watch?v=FQhV5c-cpL8&t=2127s)
 
+![image](https://user-images.githubusercontent.com/72757567/210124144-20659b95-5043-4376-a560-7f1f4e092453.png)
+![image](https://user-images.githubusercontent.com/72757567/210124149-8e3a0f82-c1e7-419a-bd59-c54e23d925d7.png)
+
+
+
 ### teamC
 ![C결론](https://user-images.githubusercontent.com/107980286/210123462-17ee6d2e-bf0b-402c-96be-34566b8d7bc5.JPG)
 ### teamB
