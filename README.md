@@ -17,6 +17,8 @@ team A : 전재현 김채은 이재우 장준혁 조수연 한예림
 ![B결론](https://user-images.githubusercontent.com/107980286/210123465-64996c0f-7887-49a3-a381-213b11721715.JPG)
 ### teamA
 ![A결론](https://user-images.githubusercontent.com/107980286/210123466-103ff60e-c1bd-4ae0-9762-586f4cf21228.JPG)
+![A결론2](https://user-images.githubusercontent.com/72757567/210123670-08b9ea40-d1de-4743-bbeb-530981c54181.png)
+
 
 
 ## File Description
