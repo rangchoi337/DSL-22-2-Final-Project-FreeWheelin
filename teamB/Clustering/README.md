@@ -5,6 +5,7 @@
 3. 그룹별 분석: 그룹별 공략해야할 주요 개념 및 난이도 확인
 
 ## 파일 설명
-- deriv_clustering_pca.ipynb: 미적분과목 클러스터링 및 분석
-- su1_clustering_pca.ipynb: 수학I과목 클러스터링 및 분석
-- su2_clustering_pca.ipynb: 수학II과목 클러스터링 및 분석
+- `deriv_clustering_pca.ipynb`: 미적분과목 클러스터링 및 분석
+- `su1_clustering_pca.ipynb`: 수학I과목 클러스터링 및 분석
+- `su2_clustering_pca.ipynb`: 수학II과목 클러스터링 및 분석
+
